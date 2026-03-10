@@ -120,19 +120,19 @@ If they fail, the opposing team gets a **10-second chance** to steal the point.
 <img src="screenshots/home_screen.png" width="300">
 
 ### Game Selection
-![Game Selection](screenshots/game_selection.png)
+<img src="screenshots/game_selection.png" width="300">
 
 ### Gameplay Example: Offside
-![Offside Gameplay](screenshots/offside_gameplay.png)
+<img src="screenshots/offside_gameplay.png" width="300">
 
 ### Gameplay Example: Password Challenge
-![Password Gameplay](screenshots/password_gameplay.png)
+<img src="screenshots/password_gameplay.png" width="300">
 
 ### Gameplay Example: Bank
-![Bank Gameplay](screenshots/bank_gameplay.png)
+<img src="screenshots/bank_gameplay.png" width="300">
 
 ### Match Result
-![Match Result](screenshots/match_result.png)
+<img src="screenshots/match_result.png" width="300">
 
 ---
 
