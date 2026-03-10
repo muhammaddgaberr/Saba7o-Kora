@@ -140,7 +140,7 @@ If they fail, the opposing team gets a **10-second chance** to steal the point.
 
 Quick demo of the gameplay:
 
-🎥 [Watch Demo Video](www.youtube.com)
+🎥 [Watch Demo Video](https://www.youtube.com/shorts/qh7vDQ4K9xo)
 
 ---
 
