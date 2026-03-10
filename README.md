@@ -117,7 +117,7 @@ If they fail, the opposing team gets a **10-second chance** to steal the point.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+<img src="screenshots/home_screen.png" width="300">
 
 ### Game Selection
 ![Game Selection](screenshots/game_selection.png)
